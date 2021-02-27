@@ -18,11 +18,15 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of hw04dwjkate is to ...
+The goal of hw04dwjkate is to use two functions myseq_n() and seq_plot().
+
+ 1. myseq_n() function is for creating a recursive sequence defined by given formula.
+
+ 2. seq_plot() function is for creating a line plot of the output values of myseq_n() function.
 
 ## Installation
 
-You can install the released version of hw04dwjkate from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of hw04dwjkate by contacting "dj1997a@student.american.edu"
 
 ``` r
 install.packages("hw04dwjkate")
@@ -32,3 +36,5 @@ install.packages("hw04dwjkate")
 Author Name: Dawoon (Kate) Jung 
 
 GitHub ID: dwjkate
+
+

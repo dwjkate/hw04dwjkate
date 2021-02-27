@@ -21,14 +21,8 @@ myseq_n <- function(x, n) {
     }
   }
   else{
-    stop(print("Error: Check your input."))
+    stop(print("Error: Check Your Input."))
   }
   return(myseq_vec[[n]])
 }
 
-# Test it
-myseq_n(x = c(2, 3, 3), n = 3)
-myseq_n(x = c(2, 4, 3), n = 4)
-myseq_n(x = c(2, 4, 3), n = 5)
-myseq_n(x = c(2, 4, 3), n = 6)
-myseq_n(x = c(2, 4, 3), n = 7)
